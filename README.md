@@ -13,9 +13,9 @@ In this Project, I aim to exploit python tools for data scinece in order to answ
     Seaborn
 ## 2. Installation
 
-pip Pandas
-Pip Plotly
-Pip Seaborn
+    pip Pandas
+    Pip Plotly
+    Pip Seaborn
 
 ## 3. Data Source
 
