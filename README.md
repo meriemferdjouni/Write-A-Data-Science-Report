@@ -1,5 +1,6 @@
 # COVID-19 Data Exploration
 In this Project, I aim to exploit python tools for data scinece in order to answer COVID-19 related questions.
+For this purpose, I used a public dataset for 170 countries worldwide. 
 
 ## Table of Contents
 * 1. Libraries 
