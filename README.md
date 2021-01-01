@@ -36,6 +36,6 @@ For this purpose, I used a public dataset for 170 countries worldwide.
 
 http://dx.doi.org/10.17632/b2wvnbnpj9.1
 
-## 4. Acknoladgment
+## 4. acknowledgements
 
 Vitenu-Sackey, Prince Asare (2020), “The Impact of Covid-19 Pandemic on the Global Economy: Emphasis on Poverty Alleviation and Economic Growth”, Mendeley Data, V1, doi: 10.17632/b2wvnbnpj9.1
